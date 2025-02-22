@@ -75,7 +75,7 @@ h4 {
   background-color: var(--bgc-blue);
 }
 
-.tri-state .button{
+.tri-state .button {
   appearance: none;
   width: 15px;
   height: 15px;
@@ -133,7 +133,7 @@ h4 {
 }
 .calculator-start {
   width: 50%;
-  height: 53vh;
+  height: 58vh;
   background-color: var(--bgc-blue);
   display: flex;
   justify-content: center;
@@ -213,18 +213,18 @@ h4 {
     height: 15vh;
     width: 90%;
   }
-  .calculator-start{
-    width:90%;
+  .calculator-start {
+    width: 90%;
     height: 100%;
   }
-  .calculator{
+  .calculator {
     width: 98%;
-  padding: 12px 0.1px;
+    padding: 12px 0.1px;
   }
-  .reset button{
+  .reset button {
     padding: 13px 70px;
   }
-  .reset :nth-child(2){
+  .reset :nth-child(2) {
     padding: 13px 80px;
   }
 }
